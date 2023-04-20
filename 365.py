@@ -22,4 +22,4 @@ async def play(ctx, *, search):
     player = await voice_client.create_ytdl_player(url)
     player.start()
 
-bot.run(MTA5ODU2MTk4NDY0OTIzNjUwMQ.GW98Ea.AFScV1koerez7B411deacUS00jE0dBBi_W2GXA)
+bot.run('MTA5ODU2MTk4NDY0OTIzNjUwMQ.GW98Ea.AFScV1koerez7B411deacUS00jE0dBBi_W2GXA')
